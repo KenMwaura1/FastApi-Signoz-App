@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # FastAPI Example App
+=======
+# FastAPI Signoz App
+>>>>>>> 27d48b6350ca79e72297d38c3fb5a44b7f5f73af
 
 ![fastapi-0.92.0-informational](https://img.shields.io/badge/fastapi-0.92.0-informational) [![CodeQL](https://github.com/KenMwaura1/Fast-Api-example/actions/workflows/codeql.yml/badge.svg)](https://github.com/KenMwaura1/Fast-Api-example/actions/workflows/codeql.yml)
 [![Docker Compose Actions Workflow](https://github.com/KenMwaura1/Fast-Api-example/actions/workflows/docker-image.yml/badge.svg)](https://github.com/KenMwaura1/Fast-Api-example/actions/workflows/docker-image.yml)
